@@ -1,10 +1,3 @@
-
-###  DATE: 
-
-###  NAME: Prabha C
-###  ROLL NO : 212222110032
-###  DEPARTMENT: CSE(IOT)
-
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
@@ -39,10 +32,11 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 6. check for execution of the output using run option
 7. Opend serial port utility and check the outpu t
 
-
-
 ## STM 32 CUBE PROGRAM :
 ```
+NAME: Prabha C
+ROLL NO : 212222110032
+
 #include "main.h"
 #include"stdio.h"
 #if defined(__ICCARM__) || defined(__ARMCC_VERSION)
